@@ -8,6 +8,7 @@ Tap It! - Implement Tap Gesture &amp; UserDefaults
 
 *The Aim of this app is to detect the no of taps done by the user within the stipulated time*  
 _For Right Tap +10 Points_
+
 _For Wrong Tap -5 Points_
 
 
